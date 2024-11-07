@@ -25,7 +25,7 @@ type NavLinksProps = {
   links: NavLink[];
   isMobile: boolean;
 };
-
+//random comment
 const NavLinks = ({ links, isMobile }: NavLinksProps) => {
   const [isMobileSubOpen, setIsMobileSubOpen] = useState(false);
   const [activeLink, setActiveLink] = useState<NavLink | null>(null);
