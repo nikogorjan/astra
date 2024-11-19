@@ -77,7 +77,7 @@ export const HeroDefaults: HeroProps = {
     alt: "Astra images",
   },
   backgroundImage: {
-    src: "/images/Group.webp",
+    src: "/images/Group-2.svg",
     alt: "Astra images",
   },
 };
